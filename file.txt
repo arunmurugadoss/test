@@ -1,2 +1,3 @@
 echo "sample text"
 echo "sample text 2"
+echo "sample test 3"
